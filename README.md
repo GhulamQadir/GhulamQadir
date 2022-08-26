@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**GhulamQadir/GhulamQadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React Js, JavaScript and Flutter
 - 🧠   I’m currently learning React Js
@@ -12,7 +8,7 @@ Here are some ideas to get you started:
 - 🌍  I'm based in Karachi
 - ✉️  You can contact me at ghulamqadirsakaria25@gmail.com
 
--->
+
 
 
 
