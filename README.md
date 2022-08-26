@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 My name is Ghulam Qadir
 
 
 - 🔭 I’m currently working on React Js, JavaScript and Flutter
