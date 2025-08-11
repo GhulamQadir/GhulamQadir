@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Ghulam Qadir
 
-💻 **CS Undergraduater**
+💻 **CS Undergraduate**
 
 ---
 
 ## 🚀 About Me
 - 🔭 Currently learning **Python**, **Data Analysis**, and **Machine Learning**
-- 📚 Exploring **AI projects** and **backend development**
+- 📚 Exploring **Data Science** and **backend development**
 - 🎯 Goal: Build intelligent, data-driven applications
 - 📍 From Pakistan 🇵🇰
 
